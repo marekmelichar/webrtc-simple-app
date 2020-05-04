@@ -1,5 +1,5 @@
 {
-  "name": "udemy-course",
+  "name": "intro-webrtc",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "coffee-script": "^1.12.7",
     "ejs": "^3.1.2",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express.io": "^1.1.13"
   }
 }
